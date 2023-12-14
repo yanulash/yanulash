@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-aq-%a1655tm7gq^0#%fi7@jkyb1ap$-001n-%%-1gp8po-n-j2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://yanulash.onrender.com"]
+ALLOWED_HOSTS = ["yanulash.onrender.com"]
 
 
 # Application definition
